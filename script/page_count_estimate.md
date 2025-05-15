@@ -9,18 +9,19 @@
 | Scene 2b | 173 | 3.1 |
 | Scene 3 | 260 | 4.7 |
 | Scene 3a | 220 | 4.0 |
+| Scene 3a2 | 120 | 2.2 |
 | Scene 3b | 171 | 3.1 |
 | Scene 4 | 264 | 4.8 |
 | Scene 5 | 165 | 3.0 |
-| **TOTAL** | **1751** | **31.8** |
+| **TOTAL** | **1871** | **34.0** |
 
 *Based on standard screenplay format with approximately 55 lines per page*
 
 ## Progress Toward Target
 
-- **Current estimated length:** 32 pages
+- **Current estimated length:** 34 pages
 - **Target length:** 80-100 pages
-- **Current progress:** 31-39% complete
+- **Current progress:** 34-43% complete
 
 ## Remaining Scenes to Develop
 
@@ -39,7 +40,7 @@ According to our development notes, we still need to create the following scenes
 Assuming the remaining scenes average 7-10 pages each (some will be shorter, some longer):
 
 - 7 remaining scenes × 7-10 pages = 49-70 additional pages
-- Current 32 pages + 49-70 additional pages = **81-102 pages total**
+- Current 34 pages + 49-70 additional pages = **83-104 pages total**
 
 This would put us within our target range of 80-100 pages for an 80-100 minute film.
 

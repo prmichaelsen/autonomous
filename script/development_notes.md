@@ -22,7 +22,8 @@
 - Scene 2: Confrontation between Clayton and Dex in Clayton's office
 - Scene 2b: Dex discovers the pattern of missing vehicles and is made the fall guy by Clayton
 - Scene 3: Clayton discovers the military connection to his company's funding
-- Scene 3a: Detective Russo (father of a child killed by an Aivia Ghost) helps Dex after seeing evidence
+- Scene 3a: Detective Russo (father of a child killed by an Aivia Ghost) confronts Dex
+- Scene 3a2: Russo shows Dex evidence of other deaths and gives him Mina Canario's flash drive
 - Scene 3b: Dex meets the Off-Grid Man who helps him after he's injured and on the run
 - Scene 4: Climactic confrontation where Dex defeats Varick and destroys the autonomous vehicles
 - Scene 5: Protest control scene showing autonomous vehicles boxing in protesters (concurrent with Scene 4)
@@ -92,7 +93,7 @@ This formatting ensures the screenplay is professional and readable, with proper
 
 ## SCREENPLAY LENGTH
 
-The current screenplay is approximately 25 pages long (see script/page_count_estimate.md for detailed breakdown). Our target length is 80-100 pages for an 80-100 minute film, meaning we're about 25-31.3% complete.
+The current screenplay is approximately 34 pages long (see script/page_count_estimate.md for detailed breakdown). Our target length is 80-100 pages for an 80-100 minute film, meaning we're about 34-43% complete.
 
 The remaining scenes to be developed include:
 1. Clayton's Death Scene
@@ -103,7 +104,7 @@ The remaining scenes to be developed include:
 6. Small Town Upload (more detailed scene)
 7. Resolution (expanded final scene of Dex at Clayton's grave)
 
-Assuming these remaining scenes average 7-10 pages each, we should reach our target length of 74-95 pages. Some scenes may be shorter or longer depending on their content and importance to the story.
+Assuming these remaining scenes average 7-10 pages each, we should reach our target length of 83-104 pages. Some scenes may be shorter or longer depending on their content and importance to the story.
 
 ## FINAL THOUGHTS
 
