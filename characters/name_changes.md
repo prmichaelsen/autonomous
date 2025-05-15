@@ -22,5 +22,5 @@ For clarity and consistency in the screenplay development process, all character
 
 - Clayton Stanford (CEO of Aivia)
 - Dexton "Dex" Sharp (Lead Engineer)
-- Varick (Number One/Main Villain)
+- Dean Varick (referred to as "Varick" in most dialogue and scenes)
 - Mina Canario (Engineer who tried to sound the alarm)

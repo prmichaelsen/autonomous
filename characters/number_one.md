@@ -1,7 +1,7 @@
-# "NUMBER ONE" / VARICK
+# DEAN VARICK
 
 ## BASIC INFORMATION
-- **Name:** Varick (revealed in later brainstorming files)
+- **Full Name:** Dean Varick (referred to as "Varick" in most dialogue and scenes)
 - **Role:** Powerful figure connected to Viatech/Aivia and the military
 - **Position:** Likely a major shareholder or board member with significant influence
 - **Connections:** Military/government ties, control over funding
