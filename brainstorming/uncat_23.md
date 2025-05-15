@@ -1,0 +1,1 @@
+let's add a scene where standford is having a conference to introduce the promised aivia mammoth. it should be an over the top flare, tacky scene, with standford dancing around and jumping like a moron. the vehicle is shown on a rotating platform, but they don't show off features. the event looks like a success, although it's all hype

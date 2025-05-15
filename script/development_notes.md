@@ -76,6 +76,18 @@
   - Remote hideout/cabin
   - Cliff location for final confrontation
 
+## SCREENPLAY FORMATTING
+
+All scenes should follow standard screenplay format as outlined in the formatting guide (.clinerules/formatting_guide.md). Key formatting elements include:
+
+- Character names centered and in ALL CAPS
+- Dialogue centered in a column approximately 35 characters wide
+- Action/description text word-wrapped with reasonable margins
+- Scene headings (sluglines) in ALL CAPS and left-aligned
+- Parentheticals centered under character names
+
+This formatting ensures the screenplay is professional and readable, with proper emphasis on dialogue and action. The formatting guide provides detailed examples and rules for all screenplay elements.
+
 ## FINAL THOUGHTS
 
 "Autonomous" combines elements of techno-thriller, conspiracy, and action genres while exploring relevant themes about technology, ethics, and responsibility. The story has a strong narrative arc with clear stakes and a satisfying resolution. The character journeys, particularly those of Dex and Clayton, provide emotional depth to complement the action and suspense elements.
