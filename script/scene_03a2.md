@@ -108,10 +108,10 @@ peers through the blinds.
 He hesitates, then:
 
                     RUSSO
-          You know the department's been buying them? 
+          There's more. The police force purchased an entire fleet.
           Aivia Ghosts. Testing them silently as 
           surveillance vehicles. They're everywhere 
-          now. Eyes and ears on every street.
+          now. Eyes and ears on every street. Mass surveillance.
 
                     DEX
           Why are you helping me?
