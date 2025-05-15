@@ -172,4 +172,7 @@ wild.
                     CLAYTON
           We need to talk.
 
+DMITRI, now outside again, steps back into the shadows, watching CLAYTON
+leave.
+
 CUT TO BLACK.

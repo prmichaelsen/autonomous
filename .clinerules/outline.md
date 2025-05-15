@@ -18,7 +18,7 @@
 
 2. **Clayton's Discovery**: Meanwhile, Clayton notices discrepancies in financial reports and begins questioning the source of his company's funding.
 
-3. **The Military Connection**: Clayton confronts Varick about the funding discrepancies and learns the shocking truth: his climate-initiative funding actually comes from the military.
+3. **The Military Connection**: Clayton intends to confront Varick, but Varick is ahead of him. The audience doesn't know it, but Dmitri secretly works for Varick and gave Varick advance notice.
 
 4. **The Assassinations**: Varick reveals that the "accidents" involving Aivia vehicles weren't accidents at all, but targeted assassinations. He warns Clayton to "stop asking questions."
 
