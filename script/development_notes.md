@@ -20,7 +20,9 @@
 ### Screenplay Scenes
 - Scene 1: Opening scene with the Beggar's death and Dex's discovery
 - Scene 2: Confrontation between Clayton and Dex in Clayton's office
+- Scene 2b: Dex discovers the pattern of missing vehicles and is made the fall guy by Clayton
 - Scene 3: Clayton discovers the military connection to his company's funding
+- Scene 3a: Detective Russo (father of a child killed by an Aivia Ghost) helps Dex after seeing evidence
 - Scene 3b: Dex meets the Off-Grid Man who helps him after he's injured and on the run
 - Scene 4: Climactic confrontation where Dex defeats Varick and destroys the autonomous vehicles
 - Scene 5: Protest control scene showing autonomous vehicles boxing in protesters (concurrent with Scene 4)
@@ -29,7 +31,7 @@
 
 ### Additional Scenes to Develop
 1. **Clayton's Death Scene**: Show how Clayton becomes a target himself after discovering the truth
-2. **Introduction of Ex-Engineer**: Scene where Dex meets the ex-Viatech security engineer
+2. **Introduction of Ex-Engineer**: Scene where Dex and Detective Russo meet the ex-Viatech security engineer
 3. **Backdoor Discovery**: Scene showing how they plan to use the backdoor in the system
 4. **Hideout Attack**: The Aivia Mammoth crashing into their hideout, killing the ex-engineer
 5. **Robot Dog Chase**: Dex being hunted by robot dogs in the woods (which leads to his injuries before meeting the Off-Grid Man)
