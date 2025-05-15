@@ -22,6 +22,7 @@
 - Scene 2: Confrontation between Clayton and Dex in Clayton's office
 - Scene 3: Clayton discovers the military connection to his company's funding
 - Scene 4: Climactic confrontation where Dex defeats Varick and destroys the autonomous vehicles
+- Scene 5: Protest control scene showing autonomous vehicles boxing in protesters (concurrent with Scene 4)
 
 ## NEXT STEPS
 
@@ -33,8 +34,7 @@
 5. **Robot Dog Chase**: Dex being hunted by robot dogs in the woods
 6. **Off-Grid Encounter**: Dex meeting the paranoid man living off the grid who helps him
 7. **Small Town Upload**: Their journey to a small town to access the internet
-8. **Final Confrontation**: Dex's plan with road signs to confuse the autonomous vehicles, infiltrating Viatech headquarters, and defeating Varick
-9. **Resolution**: Dex destroying all autonomous vehicles and the final scene at Clayton's grave
+8. **Resolution**: Dex at Clayton's grave in the final scene
 
 ### Character Development Opportunities
 - Show Dex's transformation from company loyalist to whistleblower

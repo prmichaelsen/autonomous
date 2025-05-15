@@ -129,6 +129,13 @@ The story culminates with Dex teaming up with an ex-Viatech security engineer wh
 - Dex convinces him that the external hard drive will "block frequencies"
 - They travel 14 hours to a small town with internet access
 
+### Protest Scene
+- Autonomous vehicles with police cruiser decals are used to control protesters
+- The vehicles box in the protesters, creating an inescapable perimeter
+- AI voices on loudspeakers issue commands to the crowd
+- This scene happens concurrently with the climactic confrontation
+- When Dex gains control of the system, these vehicles also crash or drive into bodies of water
+
 ### Climactic Confrontation
 - Dex devises a plan using "WRONG WAY" and "ROAD CLOSED" signs to confuse autonomous vehicles
 - He calls Varick (Number One) to draw him out
@@ -145,6 +152,50 @@ The story culminates with Dex teaming up with an ex-Viatech security engineer wh
 - The headstone reads "CLAYTON STANFORD VISIONARY"
 - Dex comments "that's a crock of shit, coming from you" before walking away
 - Cut to black
+
+## NARRATIVE STRUCTURE
+
+### Exposition
+- Introduction of Aivia and its autonomous vehicle technology
+- The beggar's death outside Aivia headquarters
+- Introduction of Clayton Stanford as the ambitious CEO
+- Introduction of Dex Sharp as the lead engineer
+- Establishment of the "perfect safety record" claim
+- Clayton pressuring Dex to find a scapegoat for the accident
+
+### Rising Action
+- Dex begins investigating the accident and finds anomalies
+- Clayton discovers discrepancies in the company's funding
+- Clayton confronts "Number One" about the military connection
+- Clayton learns the vehicles are being used for assassinations
+- Clayton has a change of heart and decides to expose the truth
+- Clayton is killed before he can fully reveal what he knows
+- Dex meets the ex-Viatech security engineer who discovered the backdoor
+- They plan to upload evidence of the assassinations
+- The Aivia Mammoth attacks their hideout, killing the ex-engineer
+- Dex escapes with Clayton's phone, hunted by robot dogs
+- Dex is found by the paranoid off-grid man who eventually helps him
+- They travel to a small town to access the internet
+
+### Climax
+- Dex devises a plan using road signs to confuse the autonomous vehicles
+- Dex calls Varick to draw him out
+- Autonomous vehicles are used to control protesters in the city
+- Dex infiltrates Viatech headquarters while Varick attacks a decoy
+- Using the backdoor, Dex takes control of Varick's vehicle and kills him
+- Dex uploads the data to expose the truth
+- Dex gains control of all autonomous vehicles, including those controlling the protest
+- He forces all vehicles to crash themselves or drive into bodies of water
+
+### Falling Action & Resolution
+- The autonomous vehicle network is destroyed
+- The protesters are freed as the vehicles self-destruct
+- The truth about the assassinations is exposed to the public
+- Dex visits Clayton's grave
+- He reads Clayton's final words/manifesto
+- Despite the headstone reading "CLAYTON STANFORD VISIONARY," Dex comments "that's a crock of shit, coming from you"
+- Dex walks away, leaving the paper fluttering in the breeze
+- The film ends with uncertainty about whether anything will really change
 
 ## THEMES
 
