@@ -30,26 +30,25 @@ Dex narrows his eyes, types rapidly.
 The computer processes. A new screen appears showing a timeline with 
 clusters of vehicles going dark at specific dates.
 
-Dex leans forward, noticing a pattern.
+Dex leans forward, puzzled.
 
                     DEX
-          Cross-reference with reported incidents 
-          involving public figures or government 
-          officials.
+          That's weird... over a hundred vehicles 
+          unaccounted for.
 
-CLOSE ON SCREEN: News headlines appear next to vehicle data points:
-"ENVIRONMENTAL ACTIVIST DIES IN CAR CRASH"
-"WHISTLEBLOWER KILLED IN HIGHWAY ACCIDENT"
-"SENATOR CRITICAL OF MILITARY SPENDING DIES IN COLLISION"
-
-Dex's eyes widen. He sits back in his chair, running his hands through 
-his hair.
+He tries another command.
 
                     DEX
-          Jesus Christ...
+          Show deployment locations for restricted 
+          vehicles.
 
-He quickly downloads the data to a secure drive, looking nervously over 
-his shoulder.
+CLOSE ON SCREEN: "ACCESS DENIED - SECURITY CLEARANCE REQUIRED"
+
+                    DEX
+          What the hell?
+
+He quickly downloads the vehicle inventory data to a secure drive, looking 
+nervously over his shoulder.
 
 The lab door OPENS. Dex quickly switches screens. A SECURITY GUARD peers in.
 
@@ -79,65 +78,50 @@ Clayton sits behind his desk, reviewing the data Dex has presented. His
 expression darkens with each slide.
 
                     CLAYTON
-          This is what you dragged me in here for?
-          Conspiracy theories?
+                    (seething)
+          I want to congratulate you on finding me nothing.
 
                     DEX
-          The pattern is undeniable. And there's 
-          more. I found financial discrepancies 
-          too. Money coming in that doesn't match 
-          our reported investors.
+          Over a hundred of them, Clayton. With 
+          restricted access that even I can't get into. 
+          Why would our own vehicles be classified?
 
 Clayton SLAMS his fist on the desk, stands abruptly.
 
                     CLAYTON
+                    (seething)
           Do you have ANY idea what you're implying?
-          That MY company is involved in some kind 
-          of... what? Assassination program?
+          That MY company is hiding something?
 
                     DEX
-          I'm just showing you the data, Clayton. 
-          Something's not right here.
+                    (exhausted but determined)
+          I'm just showing you what I found, Clayton.
+          I can't explain it, but something's not right.
 
 Clayton walks around the desk, gets in Dex's face.
 
                     CLAYTON
-          You were supposed to find me a scapegoat 
-          for the accident. Someone to take the fall. 
-          Instead, you waste my time with this 
-          paranoid GARBAGE!
+          I gave you 48 hours. I was very clear about 
+          what would happen if you didn't deliver.
+
+He taps his watch.
+
+                    CLAYTON
+          Time's up, Dex.
 
                     DEX
-          People are dying, Clayton! Real people!
+          For God's sake, Clayton! I'm trying to protect 
+          the company! Don't you want to know why our 
+          own vehicles are being hidden from us?
 
-Clayton's expression shifts from anger to cold calculation.
+Clayton's expression shifts from anger to cold calculation. He moves toward the window.
 
-                    CLAYTON
-          You know what? I've made a decision.
-
-He walks back behind his desk, sits down.
-
-                    CLAYTON
-          I've found my fall guy.
-
-Dex stares at him, realization dawning.
-
-                    DEX
-          Clayton, don't do this.
+Blue and red lights begin to flash through the glass, illuminating the room in pulses.
 
                     CLAYTON
-          You had 48 hours to find someone to blame. 
-          Time's up. Congratulations, Dex. You're 
-          now responsible for the accident.
+          Time's up, Dex.
 
-                    DEX
-          You can't be serious.
-
-                    CLAYTON
-          I've already contacted the authorities. 
-          Don't bother clearing your desk. And Dex? 
-          If you somehow wiggle out of this, I'll 
-          make sure you never work in tech again.
+Dex stares at him, realization dawning as the police lights fill the room.
 
 The office door BURSTS open. Two FBI AGENTS in suits enter, followed by 
 more agents. Everything seems to slow down for Dex.
@@ -150,14 +134,18 @@ Dex watches, almost detached, as they grab his arms. The cold metal of
 handcuffs clicks around his wrists.
 
                     CLAYTON
-          All I know is you failed this company. 
-          And now you're trying to cover it up with 
-          wild accusations.
+          You know what happens now, Dex? You disappear. 
+          You'll spend the rest of your life in a cell. 
+          No one will remember your name. Your family 
+          will never know what happened to you. Just 
+          another brilliant mind... gone.
 
-As the agents pull Dex toward the door, time seems to stretch. He locks 
-eyes with Clayton - a moment of silent confrontation. Dex's gaze is 
-unwavering, accusing. Clayton's expression flickers with something - 
-doubt? Fear? - before he breaks eye contact first, looking away.
+Dex struggles against the agents.
+
+                    DEX
+          I didn't do this! You know I didn't do this!
+
+Clayton's expression hardens, his voice dropping to a whisper.
 
                     CLAYTON
           No, Dex. You did.
@@ -171,17 +159,10 @@ questions.
 
 CAMERA FLASHES blind Dex momentarily. Microphones are thrust in his face.
 
-                    REPORTER #1
-          Mr. Sharp! Did you deliberately disable 
-          the safety protocols?
-
-                    REPORTER #2
-          Was this corporate sabotage?
-
 Dex is pushed toward a waiting FBI vehicle. Through the crowd, he spots 
 Clayton watching from the building entrance, flanked by PR PEOPLE.
 
-Dex's face is a mask of stoic determination. He makes direct eye contact 
+Dex's face is a mask of somber realizations. He makes direct eye contact 
 with Clayton across the crowd - a silent, powerful accusation. Clayton 
 looks away first.
 
@@ -191,9 +172,10 @@ we see Dex's expression: resolute, somber, calculating.
 INT. CLAYTON'S OFFICE - MOMENTS LATER
 
 Clayton watches from his window as the FBI car drives away. His confident 
-facade cracks slightly. He picks up his phone, dials.
+facade cracks slightly. He is thinking to himself, but says nothing. The seed of
+doubt has been planted in his mind.
 
-                    CLAYTON
-          It's me. We have a problem.
+                    CLAYTON (turning to a stunned employee)
+                Get me number 2.
 
 MATCH CUT TO SCENE 3
