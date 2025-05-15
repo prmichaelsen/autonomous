@@ -173,9 +173,59 @@ INT. CLAYTON'S OFFICE - MOMENTS LATER
 
 Clayton watches from his window as the FBI car drives away. His confident 
 facade cracks slightly. He is thinking to himself, but says nothing. The seed of
-doubt has been planted in his mind.
+doubt has been planted in his mind. He thinks for a long time.
 
-                    CLAYTON (turning to a stunned employee)
-                Get me number 2.
+Clayton turns to DMITRI DVULIKIY, his right-hand man who has been standing 
+silently in the corner.
 
-MATCH CUT TO SCENE 3
+                    CLAYTON
+                    (turning to Dmitri)
+          What was Dex's clearance level?
+
+                    DMITRI
+          Secret.
+
+                    CLAYTON
+          And what's yours?
+
+                    DMITRI
+          Top secret, sir.
+
+                    CLAYTON
+          I need you to look into something for me.
+
+DMITRI enters the building.
+
+                    REPORTER #1
+          Mr. Stanford, what can you tell us about 
+          the accusations against Dexton Sharp?
+
+                    CLAYTON
+          Aivia has always prioritized safety and 
+          transparency. When we discovered potential 
+          tampering with our systems, we immediately 
+          contacted authorities.
+
+                    REPORTER #2
+          Is it true that Mr. Sharp was responsible 
+          for the accident that killed a child?
+
+                    CLAYTON
+          I can't comment on an ongoing investigation, 
+          but I can assure you that Aivia's autonomous 
+          vehicles remain the safest in the industry.
+
+Clayton's phone RINGS. He checks it, his expression shifting subtly.
+
+                    CLAYTON
+          I apologize, but I need to take this. My team 
+          will provide you with our official statement.
+
+He steps away from the reporters, moving toward a sleek black car waiting 
+at the curb. As he opens the door, we see his face harden with determination.
+
+                    CLAYTON
+                    (into phone)
+          I'm on my way.
+
+MATCH CUT TO SCENE 3a
