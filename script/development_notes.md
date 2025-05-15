@@ -21,6 +21,7 @@
 - Scene 1: Opening scene with the Beggar's death and Dex's discovery
 - Scene 2: Confrontation between Clayton and Dex in Clayton's office
 - Scene 3: Clayton discovers the military connection to his company's funding
+- Scene 3b: Dex meets the Off-Grid Man who helps him after he's injured and on the run
 - Scene 4: Climactic confrontation where Dex defeats Varick and destroys the autonomous vehicles
 - Scene 5: Protest control scene showing autonomous vehicles boxing in protesters (concurrent with Scene 4)
 
@@ -31,10 +32,9 @@
 2. **Introduction of Ex-Engineer**: Scene where Dex meets the ex-Viatech security engineer
 3. **Backdoor Discovery**: Scene showing how they plan to use the backdoor in the system
 4. **Hideout Attack**: The Aivia Mammoth crashing into their hideout, killing the ex-engineer
-5. **Robot Dog Chase**: Dex being hunted by robot dogs in the woods
-6. **Off-Grid Encounter**: Dex meeting the paranoid man living off the grid who helps him
-7. **Small Town Upload**: Their journey to a small town to access the internet
-8. **Resolution**: Dex at Clayton's grave in the final scene
+5. **Robot Dog Chase**: Dex being hunted by robot dogs in the woods (which leads to his injuries before meeting the Off-Grid Man)
+6. **Small Town Upload**: More detailed scene of their journey to the small town to access the internet
+7. **Resolution**: Expanded final scene of Dex at Clayton's grave
 
 ### Character Development Opportunities
 - Show Dex's transformation from company loyalist to whistleblower
@@ -90,19 +90,18 @@ This formatting ensures the screenplay is professional and readable, with proper
 
 ## SCREENPLAY LENGTH
 
-The current screenplay is approximately 22 pages long (see script/page_count_estimate.md for detailed breakdown). Our target length is 80-100 pages for an 80-100 minute film, meaning we're about 22-27.5% complete.
+The current screenplay is approximately 25 pages long (see script/page_count_estimate.md for detailed breakdown). Our target length is 80-100 pages for an 80-100 minute film, meaning we're about 25-31.3% complete.
 
 The remaining scenes to be developed include:
 1. Clayton's Death Scene
 2. Introduction of Ex-Engineer
 3. Backdoor Discovery
 4. Hideout Attack
-5. Robot Dog Chase
-6. Off-Grid Encounter
-7. Small Town Upload
-8. Resolution (Dex at Clayton's grave)
+5. Robot Dog Chase (which leads to Dex's injuries before meeting the Off-Grid Man)
+6. Small Town Upload (more detailed scene)
+7. Resolution (expanded final scene of Dex at Clayton's grave)
 
-Assuming these remaining scenes average 7-10 pages each, we should reach our target length of 80-100 pages. Some scenes may be shorter or longer depending on their content and importance to the story.
+Assuming these remaining scenes average 7-10 pages each, we should reach our target length of 74-95 pages. Some scenes may be shorter or longer depending on their content and importance to the story.
 
 ## FINAL THOUGHTS
 
