@@ -88,6 +88,22 @@ All scenes should follow standard screenplay format as outlined in the formattin
 
 This formatting ensures the screenplay is professional and readable, with proper emphasis on dialogue and action. The formatting guide provides detailed examples and rules for all screenplay elements.
 
+## SCREENPLAY LENGTH
+
+The current screenplay is approximately 22 pages long (see script/page_count_estimate.md for detailed breakdown). Our target length is 80-100 pages for an 80-100 minute film, meaning we're about 22-27.5% complete.
+
+The remaining scenes to be developed include:
+1. Clayton's Death Scene
+2. Introduction of Ex-Engineer
+3. Backdoor Discovery
+4. Hideout Attack
+5. Robot Dog Chase
+6. Off-Grid Encounter
+7. Small Town Upload
+8. Resolution (Dex at Clayton's grave)
+
+Assuming these remaining scenes average 7-10 pages each, we should reach our target length of 80-100 pages. Some scenes may be shorter or longer depending on their content and importance to the story.
+
 ## FINAL THOUGHTS
 
 "Autonomous" combines elements of techno-thriller, conspiracy, and action genres while exploring relevant themes about technology, ethics, and responsibility. The story has a strong narrative arc with clear stakes and a satisfying resolution. The character journeys, particularly those of Dex and Clayton, provide emotional depth to complement the action and suspense elements.
