@@ -118,14 +118,67 @@ Clayton freezes in the moment. His eyes absorb the scene. Perhaps for a
 moment, he felt a fleeting moment of empathy. Of guilt. He processed the 
 BEGGAR's words. “Accidents”, he thinks. “What does he know?”
 
+The shock begins to subside from his face. His eyes turn from horror to fear.
 
-CLAYTON, panicked, pulls his jacket over his head and starts running 
-away from the scene. Sirens wail In the distance.
+The picture of the reality settles into his mind.
 
-The camera pulls back to reveal the vehicle that struck the BEGGAR. 
-It's an AIVIA GHOST, its sleek design now marred by blood. The decal 
-on the side reads "AIVIA GHOST" with the slogan beneath: "THE FUTURE 
-DRIVES ITSELF."
+“I can’t be here.” he saids to himself.
+
+“Oh my god! Shouts a bystander! Help him”
+
+Panicked, shaking to his core, he briskly abouts face, his nervous system screaming to run, run now.
+
+“I can’t be seen” he begins to dart away, holding his suite jacket over his head.
+
+First he paces quickly, then he begins to run, then he is sprinting.
+
+Scenes of the city rush by him and blur together as he runs harder and harder, with no particular destination.
+
+His mind is fixed on only one thought, “I can’t be here. I can’t be seen here. This is not good. This can’t get out”
+
+Sirens and lights begin to flood his senses.
+
+EMTs and police vehicles fly past him.
+
+He finally stops and collects himself.
+
+He breaths deeply.
+
+He picks up the phone and dials.
+
+The line on the other end answers, but doesn’t speak.
+
+“I need you to make something disappear for me”
+
+The camera cuts back to the scene of the accident.
+
+Sirens are flashing, casting shadows and blue and red silhouetttes of the figures standing over the body of the man before him.
+
+He chokes, gurgles blood, holding onto his last breaths.
+
+His last words to the bystander who rushed to him first:
+
+“Stop… Viatech… Stop… Aivia”
+
+The life finally leaves his eyes
+
+as the camera pans out from the scene.
+
+The vehicle that hit him is revealed.
+
+Decals on the car are clearly visible.
+
+Dented, and rich with blood.
+
+AIVIA GHOST
+
+reads the decals.
+
+beneath the words, read a slogan:
+
+“The future drives itself”
+
+The shot pans outward to a birds eye view
 
 FADE TO:
 
