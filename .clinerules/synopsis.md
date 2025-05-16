@@ -2,7 +2,7 @@
 
 In the near future, Aivia, a company led by visionary CEO Clayton Stanford, has revolutionized transportation with its self-driving vehicles. After 14 months without incident, an Aivia Ghost autonomous car strikes and kills a disheveled man outside company headquarters—a man who was desperately trying to warn Clayton about something related to his company.
 
-The incident brings Clayton face-to-face with Dexton "Dex" Sharp, his lead engineer, who insists the technology is virtually infallible with "99.9% repeating to the 20th decimal place precision." Clayton, concerned only with the company's image and upcoming launch of the Aivia Mammoth autonomous semi-truck, pressures Dex to find a scapegoat within 48 hours.
+The incident brings Clayton face-to-face with Dexton "Dex" Sharp, his lead engineer, who insists the technology is virtually infallible with "99.9% repeating to the 20th decimal place precision." Clayton, concerned only with the company's image and upcoming launch of the Aivia Mammoth autonomous semi-truck, pressures Dex to find a scapegoat within 24 hours.
 
 As Dex investigates, he discovers disturbing anomalies in the system. Meanwhile, Clayton begins to question the source of his company's funding after noticing discrepancies in financial reports. When he confronts a powerful shareholder known only as "Number One," Clayton learns the shocking truth: his climate-initiative funding actually comes from the military, and the "accidents" involving his vehicles weren't accidents at all, but targeted assassinations.
 

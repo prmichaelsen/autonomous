@@ -18,7 +18,7 @@ the truth about where your company's money comes from
 during stock holder v clayton scene 
 
 
-2048
+2024
 
 
 the truth about where
@@ -383,7 +383,7 @@ you want my advice? take the money
 who cares where it comes // came // from?
 
 
-goto 2048
+goto 2024
 
 
 ---

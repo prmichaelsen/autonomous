@@ -24,7 +24,7 @@
 
 - **Current estimated length:** 38.7 pages
 - **Target length:** 80-100 pages
-- **Current progress:** 39-48% complete
+- **Current progress:** 39-24% complete
 
 ## Remaining Scenes to Develop
 

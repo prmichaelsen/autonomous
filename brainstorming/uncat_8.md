@@ -98,4 +98,4 @@ this company can survive without you, it wouldn't exist without me
 
 someone needs to be the face of this failure
 
-and if you don't give me a definitive answer of who or what was responsible in the next 48 hours, then it's going to be you
+and if you don't give me a definitive answer of who or what was responsible in the next 24 hours, then it's going to be you

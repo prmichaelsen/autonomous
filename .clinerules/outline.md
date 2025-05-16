@@ -8,7 +8,7 @@
 
 3. **Introducing Dexton "Dex" Sharp**: Clayton's lead engineer who insists the technology is virtually infallible with "99.9% repeating to the 20th decimal place precision."
 
-4. **The Pressure**: Clayton pressures Dex to find a scapegoat within 48 hours, threatening that Dex himself could "disappear" if he doesn't comply.
+4. **The Pressure**: Clayton pressures Dex to find a scapegoat within 24 hours, threatening that Dex himself could "disappear" if he doesn't comply.
 
 5. **The Perfect Record**: Establishment of Aivia's 14-month perfect safety record prior to this incident, and the upcoming launch of the Aivia Mammoth autonomous semi-truck.
 
