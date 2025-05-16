@@ -5,6 +5,7 @@
 - **Role:** CEO and founder of Aivia
 - **Company:** Aivia (autonomous vehicle company)
 - **Tagline:** "The future... drives itself"
+- **Physical Appearance:** Physically unappealing with a sickly pallor, beady eyes, thin lips; wears expensive but poorly chosen clothing that demonstrates his lack of taste despite his wealth
 
 ## CHARACTER TRAITS
 - **Initial Portrayal:** Ruthless, self-centered, unstable

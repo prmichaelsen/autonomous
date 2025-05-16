@@ -10,3 +10,7 @@ Directory Guide
 
 Each scene should have its own file in scripts
 directory, numbered in order so scene order is preserved.
+
+When adapting brainstorming, ensure to keep the original
+language as close as possible and just focus on adapting
+to the screenplay format. It's ok to reformat whitespace.

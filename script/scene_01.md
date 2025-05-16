@@ -177,4 +177,4 @@ Beneath the words, read a slogan: "THE FUTURE DRIVES ITSELF"
 
 The shot pans outward to a birds eye view.
 
-FADE TO:
+CUT TO:

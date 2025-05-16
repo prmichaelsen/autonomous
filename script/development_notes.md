@@ -12,6 +12,7 @@
   - The "Beggar" (First Victim)
   - Mina Canario (Engineer who tried to sound the alarm)
   - Off-Grid Man (Paranoid recluse who helps Dex)
+  - Detective Russo (Father of a child killed by an Aivia Ghost)
 
 ### Story Documents
 - Finalized the logline that captures the essence of the story
@@ -19,12 +20,15 @@
 
 ### Screenplay Scenes
 - Scene 1: Opening scene with the Beggar's death and Dex's discovery
+- Scene 1b: Clayton rushing into his office after the accident, finding Varick waiting for him
+- Scene 1c: Dex watching the news report of the accident, Clayton approaching him
 - Scene 2: Confrontation between Clayton and Dex in Clayton's office
 - Scene 2b: Dex discovers the pattern of missing vehicles and is made the fall guy by Clayton
 - Scene 3: Clayton discovers the military connection to his company's funding
 - Scene 3a: Detective Russo (father of a child killed by an Aivia Ghost) confronts Dex
 - Scene 3a2: Russo shows Dex evidence of other deaths and gives him Mina Canario's flash drive
 - Scene 3b: Dex meets the Off-Grid Man who helps him after he's injured and on the run
+- Scene 3e: Clayton confronts Varick at the remote military complex, learning the truth about the assassinations
 - Scene 4: Climactic confrontation where Dex defeats Varick and destroys the autonomous vehicles
 - Scene 5: Protest control scene showing autonomous vehicles boxing in protesters (concurrent with Scene 4)
 
@@ -42,8 +46,10 @@
 ### Character Development Opportunities
 - Show Dex's transformation from company loyalist to whistleblower
 - Develop Clayton's internal struggle as he realizes the truth about his company
+  - Updated Clayton's character to be physically unappealing (sickly pallor, beady eyes, thin lips) with expensive but poorly chosen clothing
 - Create more backstory for the ex-engineer to make her sacrifice more impactful
-- Flesh out "Number One" to make him a more complex villain
+- Flesh out Varick to make him a more complex villain (character updates pending)
+- Further develop Detective Russo's emotional journey from vengeful father to ally
 
 ### Thematic Elements to Emphasize
 - The dangers of unchecked technological advancement
@@ -77,6 +83,7 @@
   - Aivia headquarters (modern corporate setting)
   - City streets for accident scenes
   - Remote hideout/cabin
+  - Remote military complex in the woods
   - Cliff location for final confrontation
 
 ## SCREENPLAY FORMATTING
@@ -93,7 +100,7 @@ This formatting ensures the screenplay is professional and readable, with proper
 
 ## SCREENPLAY LENGTH
 
-The current screenplay is approximately 34 pages long (see script/page_count_estimate.md for detailed breakdown). Our target length is 80-100 pages for an 80-100 minute film, meaning we're about 34-43% complete.
+The current screenplay is approximately 36 pages long (see script/page_count_estimate.md for detailed breakdown). Our target length is 80-100 pages for an 80-100 minute film, meaning we're about 36-45% complete.
 
 The remaining scenes to be developed include:
 1. Clayton's Death Scene
@@ -104,7 +111,7 @@ The remaining scenes to be developed include:
 6. Small Town Upload (more detailed scene)
 7. Resolution (expanded final scene of Dex at Clayton's grave)
 
-Assuming these remaining scenes average 7-10 pages each, we should reach our target length of 83-104 pages. Some scenes may be shorter or longer depending on their content and importance to the story.
+Assuming these remaining scenes average 7-10 pages each, we should reach our target length of 85-106 pages. Some scenes may be shorter or longer depending on their content and importance to the story.
 
 ## FINAL THOUGHTS
 
