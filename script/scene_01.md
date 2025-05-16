@@ -4,7 +4,7 @@ EXT. AIVIA HEADQUARTERS - DAY
 
 Pedestrians move swiftly outside a building on a busy city street.
 
-On the sidewalk a man, you'd be forgiven for mistaking him 
+On the sidewalk lies a man -- you'd be forgiven for mistaking him 
 as a BEGGAR. Outside a busy complex nestled within the city, 
 he waited, for as long as possible, and as close as possible, 
 every day by the head quarter office of the man who owned the 
@@ -32,39 +32,38 @@ off-putting about him - a sickly pallor, beady eyes, and a thin-lipped
 smile that never reaches his eyes. He carries himself with the confidence 
 of wealth and power, but in appearance and manor is rather revolting.
 
-The Beggar's moment has arrived. He moves quickly across the street.
+The BEGGAR's moment has arrived.
 
                     BEGGAR
                     (shouting)
           Clayton! Clayton Stanford!
 
-Clayton pretends not to hear him, deliberately avoiding eye contact and 
-quickening his pace. The Beggar pushes through the crowd.
+CLAYTON pretends not to hear him, deliberately avoiding eye contact and 
+quickening his pace. The BEGGAR pushes through the crowd.
 
                     BEGGAR
           I know you! I know you! You're 
           Clayton! Clayton Stanford! You have 
           to listen to me!
 
-Clayton looks up, annoyed at the disturbance. The Beggar reaches him 
-and grabs at Clayton's sleeve.
-
-                    BEGGAR
-          You have to listen to me!
+CLAYTON continues, committed to ignoring the disturbance. 
+The BEGGAR reaches him and grabs at CLAYTON's sleeve,
+like a man pleading for the future of humanity.
 
                     CLAYTON
           Get away from me!
-
-Clayton tries to shake him off, but the Beggar holds tight, desperate.
+          Vermin!
 
                     BEGGAR
-          You need to know what you're doing!
+          You have to know what you're doing!
+
+CLAYTON forcefully breaks from the encounter and paces away.
 
                     CLAYTON
-          Vermin! Get lost!
+          Get lost!
 
-Clayton forcefully breaks free and starts walking away quickly, almost 
-jogging. The Beggar pursues him.
+CLAYTON begins to half jog. The BEGGAR continues shouting
+and begins to chase after him.
 
                     BEGGAR
           You need to know the truth! I need 
@@ -79,6 +78,8 @@ Clayton keeps moving, but the Beggar's next words stop him cold.
 
 Clayton freezes, halfway through a crosswalk. He slowly turns around, 
 looking at the Beggar in the eyes for the first time.
+Clayton takes a moment to absorb the wretched vision of the man before 
+him. Tattered clothes, matted hair, filthy hands, worn shoes.
 
                     CLAYTON
           What do you know about Aivia?
