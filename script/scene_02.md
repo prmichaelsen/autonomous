@@ -1,38 +1,30 @@
 INT. CLAYTON'S OFFICE - DAY
 
-A spacious corner office with floor-to-ceiling windows offering a 
-panoramic view of the city. Modern, minimalist furniture. Awards and 
-accolades line the walls.
+The blinds are shut.
 
-Clayton SLAMS the door shut behind him and Dex. He moves to the windows 
-and closes the blinds, plunging the room into dim light.
+Silence pierces the stiff air.
 
-Silence fills the room. Clayton stands with his back to Dex, collecting 
-himself.
+Clayton is the first to speak.
 
                     CLAYTON
           Well?
-
-Dex shifts uncomfortably, still processing what he's seen.
 
                     DEX
           Sir, this is... this is just 
           impossible... this couldn't happen.
 
-Clayton turns around slowly, his face hardened.
-
                     CLAYTON
           Evidently it is possible, Dex.
-
-He moves to his desk, slams his fist down.
 
                     CLAYTON
           A man is splattered on the pavement 
           and headlines are splattered across 
           every major news site on the planet!
 
+He pauses.
+
                     CLAYTON
-                    (pause, then yelling)
+                    (yelling)
           International! This is international 
           news! Do you know what this does to 
           our image? Our success?
@@ -41,12 +33,9 @@ He moves to his desk, slams his fist down.
           I don't--
 
                     CLAYTON
-                    (cutting him off)
           You're lucky you didn't kill a 
           customer! FAITH is the key component 
           of our business. TRUST and SAFETY.
-
-Clayton paces, gesturing wildly.
 
                     CLAYTON
           It only works if people BELIEVE it 
@@ -60,28 +49,18 @@ Clayton paces, gesturing wildly.
           nobody. No one will miss him. No 
           lawsuits from a grieving family.
 
-Clayton stops pacing, his voice becoming more controlled but still intense.
-
                     CLAYTON
           But we're still going to have the 
           DOJ up our ass, the FCC, the DOT, 
           all are going to be coming for blood, 
           you understand? To shut this company 
-          down.
-
-He leans over his desk, his knuckles white.
-
-                    CLAYTON
-          Everything that I have built, 
+          down. Everything that I have built, 
           everything I have done, could go 
           down in flames! My blood! My sweat! 
           My credibility. My entire life.
 
                     CLAYTON
-                    (beat)
           Speak.
-
-Dex takes a deep breath, trying to maintain his composure.
 
                     DEX
           I will look into it, sir. But I'm 
@@ -92,12 +71,8 @@ Dex takes a deep breath, trying to maintain his composure.
           error. A machine did not make this 
           mistake on its own. The tech is safe.
 
-Clayton approaches Dex slowly, his voice dropping to a threatening whisper.
-
                     CLAYTON
           Listen carefully.
-
-He gets uncomfortably close to Dex's face.
 
                     CLAYTON
           You're at my mercy right now. I 
@@ -107,14 +82,15 @@ He gets uncomfortably close to Dex's face.
           my grace.
 
                     CLAYTON
-                    (beat)
           Are you grateful for my grace?
 
                     DEX
           Sir, I--
 
-Clayton SLAMS his desk and shouts at full volume, almost shrieking like 
-a frightened child trying to project power.
+CLAYTON slams the desk and shouts at full volume, almost shrieking, almost 
+like a frightened child, trying to project power, but deep in a tantrum. 
+More begging than anything else, a self-assured man in the throes of 
+instability.
 
                     CLAYTON
           TELL ME, YOU ARE GRATEFUL FOR MY 
@@ -129,8 +105,6 @@ a frightened child trying to project power.
 
                     DEX
           Your mercy...
-
-Clayton backs off slightly, regaining some composure.
 
                     CLAYTON
           The man who died... who was he?
@@ -158,11 +132,9 @@ Clayton backs off slightly, regaining some composure.
           Dex.
 
                     CLAYTON
-                    (beat)
           99.9 whatever percent is not 100.
 
                     CLAYTON
-                    (beat)
           That's how you failed.
 
                     DEX
@@ -179,23 +151,19 @@ Clayton backs off slightly, regaining some composure.
           our success cases the sigma value is 
           theoretically infinite.
 
-Clayton's eyes narrow.
-
                     CLAYTON
           There's a non-zero chance you will 
           spend the rest of your life in a 
           federal prison, Dex.
 
                     CLAYTON
-                    (beat)
           What's the sigma on that?
 
                     CLAYTON
-                    (beat)
           How would you map that on a bell 
           curve?
 
-Dex takes a deep breath.
+dEX breathes a deep breath.
 
                     DEX
           Listen, I want us to take a clearer 
@@ -207,14 +175,11 @@ Dex takes a deep breath.
           this scenario could play out.
 
                     DEX
-                    (beat)
           There's no legal precedent for this. 
           It could be a fine, they could go 
           after the engineering team, they 
           might go after the one who signed 
           off, sir.
-
-Clayton steps closer again, his voice cold and calculating.
 
                     CLAYTON
           If you have any ounce of 
@@ -226,8 +191,6 @@ Clayton steps closer again, his voice cold and calculating.
           the company, you're the one who will 
           be answering questions, not me.
 
-Clayton walks to the window, parts the blinds slightly to look out.
-
                     CLAYTON
           I'm the face of this company, I'm 
           the visionary behind this company, 
@@ -236,80 +199,26 @@ Clayton walks to the window, parts the blinds slightly to look out.
           you.
 
                     CLAYTON
-                    (beat)
           This company can survive without you, 
           it wouldn't exist without me.
-
-He turns back to face Dex.
 
                     CLAYTON
           Someone needs to be the face of this 
           failure.
 
                     CLAYTON
-                    (beat)
           And if you don't give me a definitive 
           answer of who or what was responsible 
           in the next 48 hours, then it's going 
           to be you.
 
-Dex stands there, absorbing the threat. Clayton gestures dismissively 
-toward the door.
-
-                    CLAYTON
-          Get out. And fix this.
-
-Dex nods stiffly and exits the office. As the door closes behind him, 
-Clayton collapses into his chair, the facade of strength crumbling. He 
-puts his head in his hands, a man feeling the weight of his empire 
-beginning to crumble.
+Dex exits the office.
 
 CUT TO:
 
 INT. AIVIA HEADQUARTERS - OUTSIDE CLAYTON'S OFFICE - CONTINUOUS
 
-Dex steps out to face several ENGINEERS gathered outside Clayton's door. 
-They look at him expectantly.
-
-                    ENGINEER #1
-          What did he say?
-
-                    DEX
-          He's a little upset.
-
-                    DEX
-                    (beat)
-          How do you feel about sleeping in 
-          the office tonight?
-
-                    ENGINEER #2
-          Judging by what I heard from that 
-          conversation, I don't think any of 
-          us are sleeping tonight.
-
-                    DEX
-          Yeah, I probably couldn't sleep if 
-          I wanted to.
-
-                    DEX
-                    (beat)
-          Unless you're interested in taking 
-          the fall for me?
-
-                    ENGINEER #2
-          Well, let's just say it's a good 
-          thing he's coming after you, and not 
-          me.
-
-                    DEX
-          And why's that?
-
-                    ENGINEER #2
-          Because I sure as fuck don't want to 
-          be in the hotseat.
-
-Dex looks back at Clayton's closed door, his mind already racing through 
-possibilities.
+Dex steps out, his mind racing.
 
                     DEX
                     (quietly, to himself)
@@ -317,7 +226,6 @@ possibilities.
           couldn't have happened.
 
                     DEX
-                    (beat)
           Unless...
 
 CUT TO BLACK.
