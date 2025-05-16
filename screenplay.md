@@ -1,6 +1,54 @@
 # AUTONOMOUS
 
+## COVER PAGE
+
+
+
+
+
+
+
+
+
+
+
+
+                          AUTONOMOUS
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                          Written by
+                                
+                       Patrick Michaelsen
+                                
+                                
+                          Edited by
+                                
+                      Claude 3.7 Sonnet
+
+
+
+
+
+
+
+
+
+
+
+
+patrickazusa@gmail.com
+602-345-1096                                Copyright Patrick Michaelsen
+
+
 FADE IN:
+
+## SCENE_01
 
 EXT. AIVIA HEADQUARTERS - DAY
 
@@ -181,6 +229,8 @@ The shot pans outward to a birds eye view.
 
 CUT TO:
 
+## SCENE_01B
+
 INT. VIATECH HEADQUARTERS - MID-DAY
 
 CLAYTON rushes into the office, past reception and through rows of employees 
@@ -213,6 +263,8 @@ A FIGURE (VARICK) stands by the window, not facing CLAYTON.
           Close the blinds.
 
 CUT TO:
+
+## SCENE_01C
 
 INT. VIATECH HEADQUARTERS - OUTSIDE CLAYTON'S OFFICE - MID-DAY
 
@@ -264,6 +316,8 @@ DEX wheels his head around in a panic. His eyes meet CLAYTON's.
           We need to talk.
 
 CUT TO:
+
+## SCENE_02
 
 INT. CLAYTON'S OFFICE - DAY
 
@@ -483,6 +537,8 @@ Dex exits the office.
 
 CUT TO:
 
+## SCENE_01D
+
 INT. AIVIA HEADQUARTERS - OUTSIDE CLAYTON'S OFFICE - DAY
 
 Dex steps out to face the entire team standing gathered outside Clayton's door.
@@ -527,6 +583,8 @@ Beat.
           be in the hotseat.
 
 CUT TO:
+
+## SCENE_2B
 
 INT. AIVIA HEADQUARTERS - TECHNICAL LAB - NIGHT
 
@@ -601,6 +659,8 @@ He pulls out his phone, hesitates, then dials.
           something you need to see.
 
 CUT TO:
+
+## SCENE_03A
 
 INT. CLAYTON'S OFFICE - NEXT DAY
 
@@ -762,6 +822,8 @@ DMITRI, watching from the building steps, steps back into
 the shadows and watches CLAYTON leave.
 
 MATCH CUT TO:
+
+## SCENE_03B
 
 INT. FBI DETENTION CENTER - PROCESSING AREA - NIGHT
 

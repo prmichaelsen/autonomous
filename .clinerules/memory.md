@@ -20,4 +20,5 @@ so far. Occasionally ask the user if they want to
 update ./screenplay.md. ./screenplay.md will contain
 all the scenes written in ./script/* but concatenated
 together in the order specified by their alphanumeric
-sorting order.
+sorting order. In ./screenplay.md, label the scenes
+according to their file names.
