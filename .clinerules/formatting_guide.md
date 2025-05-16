@@ -23,10 +23,10 @@ This guide outlines the standard screenplay format to be used for all scenes in 
 
 ### Action/Description
 - Left-aligned
-- Word-wrapped to fit the page width (with reasonable margins)
+- Word-wrapped to fit the page width (with reasonable margins, ie 62 chars)
 - Present tense
 - Describes what the audience sees and hears
-- Important elements (first appearance of characters, sounds, etc.) in ALL CAPS
+- Important elements (appearance of characters) in ALL CAPS
 
 ### Character Names
 - ALL CAPS
