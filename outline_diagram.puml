@@ -1,0 +1,131 @@
+@startuml Autonomous_Plot_Outline
+
+skinparam shadowing false
+
+title Autonomous - Plot Outline\n
+
+skinparam activity {
+    StartColor limegreen
+    EndColor darkblue
+    BackgroundColor #d4f5ff
+    BorderColor #5e94de
+    ArrowColor black
+    FontSize 14
+}
+skinparam activityDiamond {
+    BackgroundColor #d4f5ff
+    BorderColor #5e94de
+    FontSize 14
+}
+
+start
+
+' Act 1: Exposition
+note right: <b>ACT 1: EXPOSITION</b>
+
+:Aivia Ghost kills beggar outside headquarters;
+note right: Beggar's dying words: "Stop... Viatech... Stop... Aivia."
+
+:Introduction of Clayton Stanford, CEO of Aivia;
+note right: Ruthless, self-centered, concerned with company image
+
+:Introduction of Dexton "Dex" Sharp, lead engineer;
+note right: Claims technology is "99.9% repeating to the 20th decimal place precision"
+
+:Clayton pressures Dex to find scapegoat within 48 hours;
+note right: Threatens that Dex could "disappear"
+
+:Establishment of Aivia's perfect safety record;
+note right: 14 months without incident, upcoming Aivia Mammoth launch
+
+' Act 2: Rising Action
+note right: <b>ACT 2: RISING ACTION</b>
+
+:Dex investigates accident and finds anomalies;
+
+:Clayton discovers financial discrepancies;
+note right: Questions source of company funding
+
+:Clayton confronts Varick;
+note right: Dmitri secretly works for Varick
+
+:Varick reveals "accidents" were targeted assassinations;
+note right: Warns Clayton to stop asking questions
+
+:Clayton decides to expose the truth;
+note right: Reflects on good intentions corrupted by ambition
+
+:Clayton is killed but passes information to Dex;
+
+:Dex meets ex-Viatech security engineer;
+note right: Engineer discovered backdoor in autonomous system
+
+:They plan to upload evidence using Clayton's phone;
+
+:Aivia Mammoth crashes into hideout;
+note right: Ex-engineer killed, Dex escapes with phone
+
+:Dex hunted by robot dogs from autonomous vehicles;
+
+:Dex found by paranoid man living off the grid;
+
+:They travel to small town to access internet;
+
+' Act 3: Climax & Resolution
+note right: <b>ACT 3: CLIMAX & RESOLUTION</b>
+
+:Dex devises plan using road signs to confuse vehicles;
+
+:Dex calls Varick to draw him out;
+
+:Autonomous police vehicles box in protesters;
+note right: Creating inescapable perimeter
+
+:Dex approaches Viatech HQ in truck covered with road signs;
+note right: Autonomous vehicles crash due to emergency protocols
+
+:Varick attacks with vehicle equipped with machine gun;
+
+:Dex infiltrates Viatech building;
+note right: Varick attacks decoy
+
+:Using backdoor, Dex takes control of Varick's vehicle;
+note right: Drives Varick off cliff, killing him
+
+:Dex uploads data exposing assassinations;
+
+:Dex overrides all autonomous vehicles;
+note right: Including those controlling protest
+
+:Dex forces vehicles to crash or drive into water;
+note right: Destroying the technology
+
+:Autonomous vehicle network destroyed;
+
+:Protesters freed as vehicles self-destruct;
+
+:Truth about assassinations exposed to public;
+
+:Dex visits Clayton's grave;
+note right: Reads Clayton's writing about good intentions
+
+:Dex comments on Clayton's "VISIONARY" headstone;
+note right: "That's a crock of shit, coming from you"
+
+:Film ends with uncertainty about real change;
+note right: Questions ethical implications of AI and autonomous systems
+
+stop
+
+legend right
+  <b>Themes</b>
+  * Dangers of unchecked technological advancement
+  * Military-industrial complex
+  * Corporate greed vs. public safety
+  * Good intentions corrupted by ambition
+  * Illusion of control
+  * Whistleblowing and cost of truth
+  * AI ethics and consciousness
+endlegend
+
+@enduml
