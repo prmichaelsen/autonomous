@@ -46,3 +46,5 @@ DEX wheels his head around in a panic. His eyes meet CLAYTON's.
 
                     CLAYTON
           We need to talk.
+
+CUT TO:

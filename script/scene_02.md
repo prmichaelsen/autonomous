@@ -215,17 +215,3 @@ dEX breathes a deep breath.
 Dex exits the office.
 
 CUT TO:
-
-INT. AIVIA HEADQUARTERS - OUTSIDE CLAYTON'S OFFICE - CONTINUOUS
-
-Dex steps out, his mind racing.
-
-                    DEX
-                    (quietly, to himself)
-          This shouldn't have happened. It 
-          couldn't have happened.
-
-                    DEX
-          Unless...
-
-CUT TO BLACK.
