@@ -26,11 +26,11 @@ on the building entrance.
 
 Suddenly, the Beggar straightens up. His eyes widen.
 
-CLAYTON STANFORD (40s), impeccably dressed in an expensive suit, 
-emerges from the building. Despite his expensive attire, there's something 
-off-putting about him - a sickly pallor, beady eyes, and a thin-lipped 
-smile that never reaches his eyes. He carries himself with the confidence 
-of wealth and power, but in appearance and manor is rather revolting.
+CLAYTON STANFORD (40s) emerges. He has no sense of taste. His clothes are
+expensive, but not well chosen. There's off-putting about him -- a sickly 
+pallor, beady eyes, and a thin-lipped smile that never reaches his eyes. 
+He carries himself with the confidence of wealth and power, but in 
+appearance and manor is rather revolting.
 
 The BEGGAR's moment has arrived.
 
