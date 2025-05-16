@@ -96,6 +96,12 @@ CUT TO BLACK.
 
 1. Be consistent with formatting throughout the screenplay
 2. Focus on visual storytelling - write what can be seen and heard
-3. Keep action paragraphs brief and focused (3-4 lines maximum)
-4. Use ALL CAPS sparingly for emphasis and to highlight key elements
+4. Use ALL CAPS for character name in actions, but not for verbs
 5. Dialogue should be concise and character-driven
+6. Keep action paragraphs as faithful to the brainstorming 
+   material as possible
+7. Focus on correct whitespace
+   a. Dialogue should be centered
+   b. Actions should be column wrapped to 60 characters
+8. Generally, do not cut to black, instead cut to the 
+   next scene
