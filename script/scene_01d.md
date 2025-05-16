@@ -41,4 +41,4 @@ Beat.
           Because I sure as fuck don't want to 
           be in the hotseat.
 
-CUT TO BLACK.
+CUT TO:
