@@ -14,9 +14,10 @@ A hesitant KNOCK at the door.
                     (without turning)
           Enter.
 
-The door opens slowly. CLAYTON STANFORD enters, his face pale, eyes darting 
-around the room. He clutches a tablet to his chest like a shield. His hands 
-tremble slightly.
+The door opens slowly. CLAYTON STANFORD enters, his sickly pallor even more 
+pronounced in the dim light, beady eyes darting around the room. His thin lips 
+quiver with fear as he clutches a tablet to his chest like a shield. His hands 
+tremble slightly, long bony fingers gripping the device.
 
                     VARICK
           Clayton.

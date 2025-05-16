@@ -2,19 +2,16 @@ FADE IN:
 
 EXT. AIVIA HEADQUARTERS - DAY
 
-A gleaming glass and steel skyscraper dominates the skyline. The 
-building's sleek architecture suggests cutting-edge technology. The 
-company logo -- AIVIA -- is prominently displayed at the entrance, with 
-the tagline "THE FUTURE DRIVES ITSELF" beneath it.
+Pedestrians move swiftly outside a building on a busy city street.
 
-On the sidewalk across from the entrance lies a BEGGAR (50s), though 
-you'd be forgiven for mistaking him as just another homeless person. 
-Tattered clothes, matted hair, filthy hands, worn shoes. But his eyes 
-are alert, focused, watching the entrance with unusual intensity.
+On the sidewalk a man, you'd be forgiven for mistaking him 
+as a BEGGAR. Outside a busy complex nestled within the city, 
+he waited, for as long as possible, and as close as possible, 
+every day by the head quarter office of the man who owned the 
+company AIVIA:
 
 He dawns a blanket of newspapers. Prominent on one of the papers
-is the sleek AIVIA ghost self driving vehicle. "The future drives itself"
-reads the advertisement.
+is the sleek AIVIA ghost self driving vehicle.
 
 The Beggar mutters to himself, rehearsing.
 
@@ -30,8 +27,10 @@ on the building entrance.
 Suddenly, the Beggar straightens up. His eyes widen.
 
 CLAYTON STANFORD (40s), impeccably dressed in an expensive suit, 
-emerges from the building. He's handsome, 
-confident, the picture of success.
+emerges from the building. Despite his expensive attire, there's something 
+off-putting about him - a sickly pallor, beady eyes, and a thin-lipped 
+smile that never reaches his eyes. He carries himself with the confidence 
+of wealth and power, but in appearance and manor is rather revolting.
 
 The Beggar's moment has arrived. He moves quickly across the street.
 
@@ -39,8 +38,8 @@ The Beggar's moment has arrived. He moves quickly across the street.
                     (shouting)
           Clayton! Clayton Stanford!
 
-Clayton doesn't hear him at first, engaged in conversation with his 
-assistants. The Beggar pushes through the crowd.
+Clayton pretends not to hear him, deliberately avoiding eye contact and 
+quickening his pace. The Beggar pushes through the crowd.
 
                     BEGGAR
           I know you! I know you! You're 
