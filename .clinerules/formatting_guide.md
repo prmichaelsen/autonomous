@@ -105,16 +105,3 @@ CUT TO BLACK.
    b. Actions should be column wrapped to 60 characters
 8. Generally, do not cut to black, instead cut to the 
    next scene
-
-## Mobile-Friendly Formatting
-
-For the mobile_screenplay.md file, the following adjustments are made to improve readability on mobile devices:
-
-1. **Action/Description**: Column width reduced to approximately 30 characters (instead of 62)
-2. **Dialogue**: Indentation reduced and left-aligned with 4-space indent
-3. **Character Names**: Centered above dialogue (maintaining standard screenplay format)
-4. **Parentheticals**: Centered under character names
-5. **Overall Whitespace**: Reduced to maximize screen real estate
-6. **Cover Page**: Simplified and condensed
-
-These modifications ensure the screenplay is readable on iPhone and other mobile devices while maintaining the essential screenplay structure.
