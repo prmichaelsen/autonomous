@@ -32,7 +32,7 @@ yelling, " international!"
 
 "you're LUCKY the man who died was a nobody. no will will miss him. no lawsuits from a grieving family ."
 
-but we're still going to have the DOJ up our ass, the FCC, the DOT, all are going to be coming for blood, you understand? to shut this company down. Everything that I have built, everything I have done, could go down in flames! my blood! my sweat! my credibility. my entire life.
+but we're still going to have the DOJ up our ass, the FBI, the DOT, all are going to be coming for blood, you understand? to shut this company down. Everything that I have built, everything I have done, could go down in flames! my blood! my sweat! my credibility. my entire life.
 
 "speak."
 
