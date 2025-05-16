@@ -2,13 +2,11 @@ FADE IN:
 
 EXT. AIVIA HEADQUARTERS - DAY
 
-Pedestrians move swiftly outside a building on a busy city street.
-
 On the sidewalk lies a man -- you'd be forgiven for mistaking him 
 as a BEGGAR. Outside a busy complex nestled within the city, 
-he waited, for as long as possible, and as close as possible, 
+he waits, for as long as possible, and as close as possible, 
 every day by the headquarters office of the man who owned the 
-company AIVIA:
+company AIVIA.
 
 He dons a blanket of newspapers. Prominent on one of the papers
 is the sleek AIVIA GHOST self driving vehicle.
@@ -16,7 +14,7 @@ is the sleek AIVIA GHOST self driving vehicle.
 The BEGGAR mutters to himself, rehearsing.
 
                     BEGGAR
-                    (under his breath)
+                    (inaudible)
           Clayton Stanford... Mr. Stanford... 
           I need to tell you something...
 
@@ -39,7 +37,7 @@ The BEGGAR's moment has arrived.
           Clayton! Clayton Stanford!
 
 CLAYTON pretends not to hear him, deliberately avoiding eye contact and 
-quickening his pace. The BEGGAR pushes through the crowd.
+quickening his pace.
 
                     BEGGAR
           I know you! I know you! You're 
@@ -81,22 +79,20 @@ CLAYTON keeps moving, but the BEGGAR's next words stop him cold.
 CLAYTON freezes, halfway through a crosswalk. He slowly turns around, 
 looking at the BEGGAR in the eyes for the first time.
 
-CLAYTON takes a moment to absorb the wretched vision of the man before 
-him. Tattered clothes, matted hair, filthy hands, worn shoes.
-
-                    CLAYTON
+                    CLAYTON (suspiciously)
           What do you know about Aivia?
 
-The BEGGAR, halfway through the crosswalk stops.
+The BEGGAR, halfway through the crosswalk, stops.
 
                     BEGGAR
           Come with me, and I'll tell you. I'll 
           tell you everything they have been 
           hiding from you.
 
-The beggars eyes are filled with a knowing look.  CLAYTON takes a moment 
-to absorb the wretched vision of the man before him. Tattered clothes, 
-matted hair, filthy hands, worn shoes.
+The BEGGARS eyes are filled with a knowing look.
+CLAYTON takes a moment to absorb the wretched vision of the man before 
+him. Tattered clothes, matted hair, filthy hands, worn shoes.
+
 
                     CLAYTON
           You're a lunatic. There's nothing I 
@@ -107,34 +103,44 @@ matted hair, filthy hands, worn shoes.
           why they're--
 
 Tires screech and the smoke and smell of burnt rubber suddenly fill the 
-air. The vehicle screams to a halt—but not before it slams directly into 
+air. The vehicle screams to a halt —- but not before it slams directly into 
 the BEGGAR.
 
 He rag dolls, breaking his spine, his body swings like a pendulum, sending 
 his head careening into the asphalt. Cracking open his skull. 
-Blood rushes onto the pavement--an ugly scene.
+Blood rushes onto the pavement -- an ugly scene.
 
 Clayton freezes in the moment. His eyes absorb the scene. Perhaps for a 
 moment, he felt a fleeting moment of empathy. Of guilt. He processed the 
-BEGGAR's words. “Accidents”, he thinks. “What does he know?”
+BEGGAR's words. "Accidents", he thinks. "What does he know?"
 
 The shock begins to subside from his face. His eyes turn from horror to fear.
 
 The picture of the reality settles into his mind.
 
-“I can’t be here.” he saids to himself.
+                    CLAYTON
+                    (to himself)
+          I can't be here.
 
-“Oh my god! Shouts a bystander! Help him”
+                    BYSTANDER (O.S.)
+          Oh my god! Help him!
 
-Panicked, shaking to his core, he briskly abouts face, his nervous system screaming to run, run now.
+Panicked, shaking to his core, he briskly abouts face, his nervous system 
+screaming to run, run now.
 
-“I can’t be seen” he begins to dart away, holding his suite jacket over his head.
+                    CLAYTON
+                    (to himself)
+          I can't be seen.
+
+He begins to dart away, holding his suite jacket over his head.
 
 First he paces quickly, then he begins to run, then he is sprinting.
 
-Scenes of the city rush by him and blur together as he runs harder and harder, with no particular destination.
+Scenes of the city rush by him and blur together as he runs harder and harder, 
+with no particular destination.
 
-His mind is fixed on only one thought, “I can’t be here. I can’t be seen here. This is not good. This can’t get out”
+His mind is fixed on only one thought, "I can't be here. I can't be seen here. 
+This is not good. This can't get out"
 
 Sirens and lights begin to flood his senses.
 
@@ -146,39 +152,31 @@ He breaths deeply.
 
 He picks up the phone and dials.
 
-The line on the other end answers, but doesn’t speak.
+The line on the other end answers, but doesn't speak.
 
-“I need you to make something disappear for me”
+                    CLAYTON
+          I need you to make something disappear for me.
 
 The camera cuts back to the scene of the accident.
 
-Sirens are flashing, casting shadows and blue and red silhouetttes of the figures standing over the body of the man before him.
+Sirens are flashing, casting shadows and blue and red silhouettes of the 
+figures standing over the body of the man before him.
 
 He chokes, gurgles blood, holding onto his last breaths.
 
 His last words to the bystander who rushed to him first:
 
-“Stop… Viatech… Stop… Aivia”
+                    BEGGAR
+                    (gurgling blood)
+          Stop… Viatech… Stop… Aivia...
 
-The life finally leaves his eyes
+The life finally leaves his eyes as the camera pans out from the scene.
+The vehicle that hit him is revealed.  Decals on the car are clearly visible.
+Dented, and rich with blood. "AIVIA GHOST" reads the decals.
 
-as the camera pans out from the scene.
+Beneath the words, read a slogan: "THE FUTURE DRIVES ITSELF"
 
-The vehicle that hit him is revealed.
-
-Decals on the car are clearly visible.
-
-Dented, and rich with blood.
-
-AIVIA GHOST
-
-reads the decals.
-
-beneath the words, read a slogan:
-
-“The future drives itself”
-
-The shot pans outward to a birds eye view
+The shot pans outward to a birds eye view.
 
 FADE TO:
 
@@ -192,7 +190,9 @@ showing the BEGGAR's body being covered with a sheet.
                     (whispers)
           This is impossible...
 
-                    REPORTER (V.O.)
+XCU DEX's face
+
+                    REPORTER (background)
           Reporting at the scene of a horrific 
           accident here at the intersection of 
           5th Ave and 7th St in Downtown, as a 
@@ -223,8 +223,5 @@ wild.
 
                     CLAYTON
           We need to talk.
-
-DMITRI, now outside again, steps back into the shadows, watching CLAYTON
-leave.
 
 CUT TO BLACK.

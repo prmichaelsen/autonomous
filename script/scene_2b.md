@@ -228,4 +228,7 @@ at the curb. As he opens the door, we see his face harden with determination.
                     (into phone)
           I'm on my way.
 
+DMITRI, watching from the building steps, steps back into 
+the shadows and watches CLAYTON leave.
+
 MATCH CUT TO SCENE 3a
