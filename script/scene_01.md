@@ -7,13 +7,14 @@ building's sleek architecture suggests cutting-edge technology. The
 company logo -- AIVIA -- is prominently displayed at the entrance, with 
 the tagline "THE FUTURE DRIVES ITSELF" beneath it.
 
-On the sidewalk across from the entrance stands a BEGGAR (50s), though 
+On the sidewalk across from the entrance lies a BEGGAR (50s), though 
 you'd be forgiven for mistaking him as just another homeless person. 
 Tattered clothes, matted hair, filthy hands, worn shoes. But his eyes 
 are alert, focused, watching the entrance with unusual intensity.
 
-He's been here before. Many times. The security guards eye him warily 
-but keep their distance.
+He dawns a blanket of newspapers. Prominent on one of the papers
+is the sleek AIVIA ghost self driving vehicle. "The future drives itself"
+reads the advertisement.
 
 The Beggar mutters to himself, rehearsing.
 
@@ -22,14 +23,14 @@ The Beggar mutters to himself, rehearsing.
           Clayton Stanford... Mr. Stanford... 
           I need to tell you something...
 
-He paces nervously, checking his watch. A BUSINESSMAN walks past, 
-deliberately avoiding eye contact. The Beggar doesn't even notice -- 
-his attention fixed solely on the building entrance.
+A BUSINESSMAN walks past, deliberately avoiding eye contact. 
+The Beggar doesn't even notice -- his attention fixed solely 
+on the building entrance.
 
 Suddenly, the Beggar straightens up. His eyes widen.
 
 CLAYTON STANFORD (40s), impeccably dressed in an expensive suit, 
-emerges from the building, flanked by two ASSISTANTS. He's handsome, 
+emerges from the building. He's handsome, 
 confident, the picture of success.
 
 The Beggar's moment has arrived. He moves quickly across the street.

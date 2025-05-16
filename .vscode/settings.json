@@ -15,5 +15,8 @@
     ".bemol": true,
     "**/CVS": true,
     "out": false
-  }
+  },
+  "cSpell.words": [
+    "AIVIA"
+  ]
 }
