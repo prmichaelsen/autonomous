@@ -12,7 +12,7 @@
   - The "Beggar" (First Victim)
   - Mina Canario (Engineer who tried to sound the alarm)
   - Off-Grid Man (Paranoid recluse who helps Dex)
-  - Detective Russo (Father of a child killed by an Aivia Ghost)
+  - Agent Ravel (Father of a child killed by an Aivia Ghost)
 
 ### Story Documents
 - Finalized the logline that captures the essence of the story
@@ -25,8 +25,8 @@
 - Scene 2: Confrontation between Clayton and Dex in Clayton's office
 - Scene 2b: Dex discovers the pattern of missing vehicles and is made the fall guy by Clayton
 - Scene 3: Clayton discovers the military connection to his company's funding
-- Scene 3a: Detective Russo (father of a child killed by an Aivia Ghost) confronts Dex
-- Scene 3a2: Russo shows Dex evidence of other deaths and gives him Mina Canario's flash drive
+- Scene 3a: Agent Ravel (father of a child killed by an Aivia Ghost) confronts Dex
+- Scene 3a2: Ravel shows Dex evidence of other deaths and gives him Mina Canario's flash drive
 - Scene 3b: Dex meets the Off-Grid Man who helps him after he's injured and on the run
 - Scene 3e: Clayton confronts Varick at the remote military complex, learning the truth about the assassinations
 - Scene 4: Climactic confrontation where Dex defeats Varick and destroys the autonomous vehicles
@@ -36,7 +36,7 @@
 
 ### Additional Scenes to Develop
 1. **Clayton's Death Scene**: Show how Clayton becomes a target himself after discovering the truth
-2. **Introduction of Ex-Engineer**: Scene where Dex and Detective Russo meet the ex-Viatech security engineer
+2. **Introduction of Ex-Engineer**: Scene where Dex and Agent Ravel meet the ex-Viatech security engineer
 3. **Backdoor Discovery**: Scene showing how they plan to use the backdoor in the system
 4. **Hideout Attack**: The Aivia Mammoth crashing into their hideout, killing the ex-engineer
 5. **Robot Dog Chase**: Dex being hunted by robot dogs in the woods (which leads to his injuries before meeting the Off-Grid Man)
@@ -49,7 +49,7 @@
   - Updated Clayton's character to be physically unappealing (sickly pallor, beady eyes, thin lips) with expensive but poorly chosen clothing
 - Create more backstory for the ex-engineer to make her sacrifice more impactful
 - Flesh out Varick to make him a more complex villain (character updates pending)
-- Further develop Detective Russo's emotional journey from vengeful father to ally
+- Further develop Agent Ravel's emotional journey from vengeful father to ally
 
 ### Thematic Elements to Emphasize
 - The dangers of unchecked technological advancement
