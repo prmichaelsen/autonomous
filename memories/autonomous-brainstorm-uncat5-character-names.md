@@ -1,0 +1,45 @@
+---
+title: "Autonomous Brainstorm: uncat_5 - Character Names"
+id: 2af2b721-a7e4-42c7-8405-8efaed136139
+weight: 0.5
+created: 2026-03-12
+tags: [autonomous, screenplay, brainstorming, character-names, naming]
+---
+
+> Autonomous Brainstorm: uncat_5 - Character Names
+
+autonomous film script
+
+char1 stanford preston?
+
+stanford ivory
+
+preston standford (aka mechanica)
+
+// prince stanford?
+
+// auto mechanica
+
+preston lord
+
+char2 kataylein // nova // Nouveau
+
+// maybe his name is auto mechanica lord but he prefers to be called preston, chosen name
+
+// compromised engineer - james benedict
+
+cop name: ravel
+
+Dillon Ravel (loyal, untangle as if by pulling threads)
+
+// suicide engineer - verantwortlich
+
+// adam (man) or mann
+
+first engineer to try to sound the alarm, who is killed - Siren Canario
+
+Canario Naciente - early canary
+
+Aviso Canario - warning - figures out the problem, is killed with a self driving car
+
+Mina Canario - canary in the coal mine - first victim

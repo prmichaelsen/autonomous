@@ -1,0 +1,112 @@
+---
+title: "AUTONOMOUS - Script: Scene 0001_0192 (Dex Led Out - Clayton Watches)"
+id: 61074494-949a-4fd6-8d25-7efee2439354
+weight: 0.7
+created: 2026-03-12
+tags: [autonomous, screenplay, script, scene, dex, clayton, dmitri, arrest, media]
+---
+
+> AUTONOMOUS - Script: Scene 0001_0192 (Dex Led Out - Clayton Watches)
+
+EXT. AIVIA HEADQUARTERS - MOMENTS LATER
+
+The glass doors of the building open. Dex is led out in handcuffs by the 
+FBI agents. A CROWD has gathered - PROTESTERS with signs reading "KILLER 
+CARS" and "AI KILLS," NEWS CREWS with cameras rolling, REPORTERS shouting 
+questions.
+
+CAMERA FLASHES blind Dex momentarily. Microphones are thrust in his face.
+
+Dex is pushed toward an unmarked FBI vehicle. Through the crowd, he spots 
+Clayton watching from the building entrance, flanked by DMITRI.
+
+Dex's face is a mask of somber realizations. He makes direct eye contact 
+with Clayton across the crowd - a silent, powerful accusation. Clayton 
+looks away first.
+
+An FBI AGENT silently hands Dex over to AGENT RAVEL (40s, 
+weathered face, rigid posture). Ravel's eyes are hard, his jaw clenched 
+tight as he stares at Dex. Ravel forces DEX's head down and into
+an unmarked cruiser.
+
+INT. CLAYTON'S OFFICE - MOMENTS LATER
+
+Clayton watches from his window as the FBI car drives away. His confident 
+facade cracks slightly. He is thinking to himself, but says nothing. The seed of
+doubt has been planted in his mind. He thinks for a long time.
+
+Clayton turns to DMITRI DVULIKIY, his right-hand man who has been standing 
+silently in the corner.
+
+                    CLAYTON
+                    (turning to Dmitri)
+          What was Dex's clearance level?
+
+                    DMITRI
+          Secret.
+
+                    CLAYTON
+          And what's yours?
+
+                    DMITRI
+          Top secret, sir.
+
+                    CLAYTON
+          I need you to look into something for me.
+
+Wide shot of the chaos. They continue their conversation, inaudibly.
+DMITRI enters the building.
+
+EXT. AIVIA HEADQUARTERS - CONTINUOUS
+
+                    REPORTER #1
+          Mr. Stanford, what can you tell us about 
+          the accusations against Dexton Sharp?
+
+                    CLAYTON
+          Aivia has always prioritized safety and 
+          transparency. We are cooperating 
+          full with authorities.
+
+                    REPORTER #2
+          Is it true that Mr. Sharp was responsible 
+          for the accident that killed a child?
+
+                    CLAYTON
+          I can't comment on an ongoing investigation, 
+          but I can assure you that Aivia's autonomous 
+          vehicles remain the safest in the industry.
+
+Clayton's phone RINGS. He checks it, his expression shifting subtly.
+
+                    CLAYTON
+          I apologize, but I need to take this. My team 
+          will provide you with our official statement.
+
+He steps away from the reporters, moving toward a sleek black car waiting 
+at the curb. The car is clearly not an autonomous Aivia model.
+
+Two AIVIA STAFF MEMBERS stand near the building entrance, watching Clayton.
+
+                    STAFF MEMBER #1
+                    (quietly)
+          Clayton doesn't use the autonomous vehicles, 
+          you know. He doesn't trust them.
+
+                    STAFF MEMBER #2
+          You mean he says it's safe for the rest of us, 
+          but he won't use them himself?
+
+                    STAFF MEMBER #1
+          Yep.
+
+Clayton opens the car door and he gets in.
+
+                    CLAYTON
+                    (into phone)
+          I'm on my way.
+
+DMITRI, watching from the building steps, steps back into 
+the shadows and watches CLAYTON leave.
+
+CUT TO:

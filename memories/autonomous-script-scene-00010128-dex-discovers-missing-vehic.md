@@ -1,0 +1,101 @@
+---
+title: "AUTONOMOUS - Script: Scene 0001_0128 (Dex Discovers Missing Vehicles - Shell Companies Revision)"
+id: 27f2745b-75aa-4a98-9235-8993e2f2ecdd
+weight: 0.7
+created: 2026-03-12
+tags: [autonomous, screenplay, script, scene, dex, dmitri, investigation, shell-companies, revision-needed]
+---
+
+> AUTONOMOUS - Script: Scene 0001_0128 (Dex Discovers Missing Vehicles - Shell Companies Revision)
+
+INT. AIVIA HEADQUARTERS - TECHNICAL LAB - NIGHT
+
+The office is mostly empty, lights off. Only a few workstations are 
+occupied. DEX sits at his desk, surrounded by multiple screens. The only 
+light comes from the monitors, casting a blue glow on his exhausted face. 
+Empty coffee cups litter the desk.
+
+Across the room, DMITRI works silently at his station. A FEW OTHER ENGINEERS 
+are scattered throughout the large space, all focused on their own tasks.
+
+He's reviewing data logs from the accident, scrolling through lines of 
+code and vehicle telemetry.
+
+CLOSE ON SCREEN: Vehicle diagnostic data showing normal operations, then 
+a sudden override command followed by acceleration.
+
+                    DEX
+                    (to himself)
+          This doesn't make sense...
+
+He pulls up another screen showing a database of all Aivia test vehicles.
+
+CLOSE ON SCREEN: A spreadsheet with hundreds of entries. Many have 
+location data, but over 100 entries show "LOCATION DATA UNAVAILABLE" or 
+"ACCESS RESTRICTED."
+
+DEX narrows his eyes, types rapidly.
+
+                    DEX
+          Computer, show me all vehicles with 
+          restricted location data for the past 
+          six months.
+
+DMITRI eyes DEX. The computer processes. A new screen appears showing a timeline with 
+clusters of vehicles going dark at specific dates.
+
+DEX leans forward, puzzled.
+
+                    DEX
+          That's weird... over a hundred vehicles 
+          unaccounted for.
+
+He tries another command.
+
+                    DEX
+          Show deployment locations for restricted 
+          vehicles.
+
+CLOSE ON SCREEN: "ACCESS DENIED - SECURITY CLEARANCE REQUIRED"
+
+                    DEX
+          What the hell?
+
+He tries a different approach, typing rapidly.
+
+                    DEX
+          Show shipping manifests for all vehicles 
+          manufactured in the last year.
+
+A new screen appears with shipping data. Dex scrolls through it, then stops suddenly.
+
+CLOSE ON SCREEN: Several entries showing vehicles shipped to various locations 
+in the Middle East.
+
+                    DEX
+                    (whispering)
+          The middle east... that can't be right.
+
+He quickly downloads the vehicle inventory data and shipping manifests to a secure drive.
+
+Through the window, the first light of dawn begins to break. DEX glances 
+over at DMITRI, who's still working diligently.
+
+                    DEX
+          Another all-nighter, Dmitri? You know what 
+          they say about all work and no play...
+
+                    DMITRI
+                    (without looking up)
+          It keeps you out of federal prison?
+
+                    DEX
+          Well, I think I found something interesting.
+          There's over 100 Ghosts that aren't accounted for.
+
+                    DMITRI
+          That is... interesting.
+
+DEX turns back to his screen and continues working.
+
+FADE TO:

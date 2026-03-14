@@ -1,0 +1,190 @@
+---
+title: "AUTONOMOUS - Script: Scene 0000_0000 (Opening Scene)"
+id: 7f21f7fc-d532-4f2e-ac82-2d6904f60226
+weight: 0.5
+created: 2026-03-07
+tags: [autonomous, screenplay, script, scene, opening]
+---
+
+> AUTONOMOUS - Script: Scene 0000_0000 (Opening Scene)
+
+FADE IN:
+
+EXT. AIVIA HEADQUARTERS - DAY
+
+On the sidewalk lies a man -- you'd be forgiven for mistaking him 
+as a BEGGAR. Outside a busy complex nestled within the city, 
+he waitst , for as long as possible, and as close as possible, 
+every day by the headquarters office of the man who owned the 
+company AIVIA.
+
+He dons a blanket of newspapers. Prominent on one of the papers
+is the sleek AIVIA GHOST self driving vehicle.
+
+The BEGGAR mutters to himself, rehearsing.
+
+                    BEGGAR
+                    (inaudible)
+          Clayton Stanford... Mr. Stanford... 
+          I need to tell you something...
+
+A BUSINESSMAN walks past, deliberately avoiding eye contact. 
+The BEGGAR doesn't even notice -- his attention fixed solely 
+on the building entrance.
+
+Suddenly, the BEGGAR straightens up. His eyes widen.
+
+CLAYTON STANFORD (40s) emerges. He has no sense of taste. His clothes are
+expensive, but not well chosen. There's something off-putting about him -- 
+a sickly pallor, beady eyes, and a thin-lipped smile that never reaches 
+his eyes. He carries himself with the confidence of wealth and power, but 
+in appearance and manner is rather revolting.
+
+The BEGGAR's moment has arrived.
+
+                    BEGGAR
+                    (shouting)
+          Clayton! Clayton Stanford!
+
+CLAYTON pretends not to hear him, deliberately avoiding eye contact and 
+quickening his pace.
+
+                    BEGGAR
+          I know you! I know you! You're 
+          Clayton! Clayton Stanford! You have 
+          to listen to me!
+
+CLAYTON continues, committed to ignoring the disturbance. 
+The BEGGAR reaches him and grabs at CLAYTON's sleeve,
+like a man pleading for the future of humanity.
+
+                    CLAYTON
+          Get away from me!
+
+                    CLAYTON (cont.)
+          Vermin!
+
+                    BEGGAR
+          You have to know what you're doing!
+
+CLAYTON forcefully breaks from the encounter and paces away.
+
+                    CLAYTON
+          Get lost!
+
+CLAYTON begins to half jog. The BEGGAR continues shouting
+and begins to chase after him.
+
+                    BEGGAR
+          You need to know the truth! I need 
+          to tell you something! Clayton, stop, 
+          listen! The world hangs in the balance.
+
+CLAYTON keeps moving, but the BEGGAR's next words stop him cold.
+
+                    BEGGAR
+          You need to know! The truth about 
+          Aivia!
+
+CLAYTON freezes, halfway through a crosswalk. He slowly turns around, 
+looking at the BEGGAR in the eyes for the first time.
+
+                    CLAYTON (suspiciously)
+          What do you know about Aivia?
+
+The BEGGAR, halfway through the crosswalk, stops.
+
+                    BEGGAR
+          Come with me, and I'll tell you. I'll 
+          tell you everything they have been 
+          hiding from you.
+
+The BEGGARS eyes are filled with a knowing look.
+CLAYTON takes a moment to absorb the wretched vision of the man before 
+him. Tattered clothes, matted hair, filthy hands, worn shoes.
+
+
+                    CLAYTON
+          You're a lunatic. There's nothing I 
+          need to know from you.
+
+                    BEGGAR
+          I know about the accidents. I know 
+          why they're--
+
+Tires screech and the smoke and smell of burnt rubber suddenly fill the 
+air. The vehicle screams to a halt —- but not before it slams directly into 
+the BEGGAR.
+
+He rag dolls, breaking his spine, his body swings like a pendulum, sending 
+his head careening into the asphalt. Cracking open his skull. 
+Blood rushes onto the pavement -- an ugly scene.
+
+CLAYTON freezes in the moment. His eyes absorb the scene. Perhaps for a 
+moment, he felt a fleeting moment of empathy. Of guilt. He processed the 
+BEGGAR's words. "Accidents", he thinks. "What does he know?"
+
+The shock begins to subside from his face. His eyes turn from horror to fear.
+
+The picture of the reality settles into his mind.
+
+                    CLAYTON
+                    (to himself)
+          I can't be here.
+
+                    BYSTANDER (O.S.)
+          Oh my god! Help him!
+
+Panicked, shaking to his core, he briskly abouts face, his nervous system 
+screaming to run, run now.
+
+                    CLAYTON
+                    (to himself)
+          I can't be seen.
+
+He begins to dart away, holding his suite jacket over his head.
+
+First he paces quickly, then he begins to run, then he is sprinting.
+
+Scenes of the city rush by him and blur together as he runs harder and harder, 
+with no particular destination.
+
+His mind is fixed on only one thought, "I can't be here. I can't be seen here. 
+This is not good. This can't get out"
+
+Sirens and lights begin to flood his senses.
+
+EMTs and police vehicles fly past him.
+
+He finally stops and collects himself.
+
+He breaths deeply.
+
+He picks up the phone and dials.
+
+The line on the other end answers, but doesn't speak.
+
+                    CLAYTON
+          I need you to make something disappear for me.
+
+The camera cuts back to the scene of the accident.
+
+Sirens are flashing, casting shadows and blue and red silhouettes of the 
+figures standing over the body of the man before him.
+
+He chokes, gurgles blood, holding onto his last breaths.
+
+His last words to the bystander who rushed to him first:
+
+                    BEGGAR
+          Stop… Viatech… Stop… Aivia...
+
+The life finally leaves his eyes as the camera pans out from the scene.
+The vehicle that hit him is revealed.  Decals on the car are clearly visible.
+Dented, and rich with blood. "AIVIA GHOST" reads the decals.
+
+Beneath the words, read a slogan: "THE FUTURE DRIVES ITSELF"
+
+The shot pans outward to a birds eye view.
+
+CUT TO:
